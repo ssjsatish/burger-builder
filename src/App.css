@@ -1,3 +1,8 @@
 .App {
   text-align: center;
 }
+li {
+  list-style-type: circle;
+  align-items: flex-end;
+  
+}
